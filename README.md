@@ -37,7 +37,7 @@ An automated computer vision system for grading Tahitian pearls by size, shape, 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pearl-grading-system.git
+git clone https://github.com/kylanj7/pearl-grading-system.git
 cd pearl-grading-system
 ```
 
